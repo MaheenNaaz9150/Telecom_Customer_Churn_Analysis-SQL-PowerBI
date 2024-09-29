@@ -17,6 +17,7 @@ The analysis is based on a comprehensive dataset ( telecom_customer_churn.csv) c
 # Tools
  
 **. SQL Scripts** : Contains all SQL queries used for data analysis.
+
 **. Power BI Dashboard:** An interactive dashboard providing insights into customer churn.
 
 # Insights
