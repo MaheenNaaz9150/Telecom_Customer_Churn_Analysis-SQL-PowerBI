@@ -11,7 +11,7 @@ This project focuses on analyzing customer churn in a telecom company, aiming to
 3. Generate strategic recommendations aimed at enhancing customer retention and loyalty.
 
 # Dataset
-The analysis is based on a comprehensive dataset of telecom customers, including demographics, service usage patterns, billing information, and churn status.
+The analysis is based on a comprehensive [dataset] of telecom customers, including demographics, service usage patterns, billing information, and churn status.
 
 
 
