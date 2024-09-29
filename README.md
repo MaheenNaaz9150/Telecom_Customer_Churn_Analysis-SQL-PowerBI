@@ -1,4 +1,4 @@
-# Telecom_Customer_Churn_Analysis ( SQL + PowerBI )
+# Telecom_Customer_Churn_Analysis( SQL + PowerBI )
 
 # Overview
 
