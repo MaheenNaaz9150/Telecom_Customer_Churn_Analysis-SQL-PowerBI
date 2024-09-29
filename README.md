@@ -11,13 +11,15 @@ This project focuses on analyzing customer churn in a telecom company, aiming to
 3. Generate strategic recommendations aimed at enhancing customer retention and loyalty.
 
 # Dataset
+
 The analysis is based on a comprehensive dataset ( telecom_customer_churn.csv) collected from kaggle of telecom customers, including demographics, service usage patterns, billing information, and churn status.
 
- **Tools
-. SQL Scripts** : Contains all SQL queries used for data analysis.
+# Tools
+ 
+**. SQL Scripts** : Contains all SQL queries used for data analysis.
 **. Power BI Dashboard:** An interactive dashboard providing insights into customer churn.
 
-**Insights**
+# Insights
 
 1. The database contains 7,043 customers.
 2. Among all customers in the database, 26.54% belong to the “Churned” category, totaling 1,869 lost customers.
